@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5575728963",
+    "project_id": "esa-pc1-josesolis",
+    "storage_bucket": "esa-pc1-josesolis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5575728963:android:b9fe2b600d2a503c8599f6",
+        "android_client_info": {
+          "package_name": "com.example.esa_pc1_josesolis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUSWoZbxTqWDvf2iOz-teBHPZ3C-sKc6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
